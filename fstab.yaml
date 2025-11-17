@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+  url: https://author-p51202-e1639255.adobeaemcloud.com/bin/franklin.delivery/abeheram/westpacedsforms/main
+  type: "markup"
+  suffix: ".html"
