@@ -6,6 +6,11 @@ mountpoints:
     suffix: ".html"
 =======
   url: https://author-p51202-e1639255.adobeaemcloud.com/bin/franklin.delivery/abeheram/westpacedsforms/main
+<<<<<<< HEAD
   type: "markup"
   suffix: ".html"
 >>>>>>> 47c41fa (Add fstab.yaml configuration for mountpoints)
+=======
+  type: markup
+  suffix: ".html?wcmmode=disabled"
+>>>>>>> 5b09d1a (Update fstab.yaml)
